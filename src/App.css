@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+/* Custom styles for the toast notification */
+.toast-custom-dark {
+  background-color: #202529 !important; /* Change to your desired color */
+  color: white !important; /* Change to your desired text color */
+  /* Add any other custom styles you want */
+}
+
+.toast-custom-light {
+  background-color: #F8F9FA !important; /* Change to your desired color */
+  color: black !important; /* Change to your desired text color */
+  /* Add any other custom styles you want */
+}
+
+.toast-custom-green {
+  background-color: #008000 !important; /* Change to your desired color */
+  color: white !important; /* Change to your desired text color */
+  /* Add any other custom styles you want */
+}
+
+.toast-custom-blue {
+  background-color: #0000ff !important; /* Change to your desired color */
+  color: white !important; /* Change to your desired text color */
+  /* Add any other custom styles you want */
+}
+
+.toast-custom-red{
+  background-color: red !important;
+  color: white !important;
+}
